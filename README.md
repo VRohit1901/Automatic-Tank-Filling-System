@@ -25,6 +25,10 @@ Make sure you have the required hardware components and have installed the lates
 
 ![Automatic-Tank-Filling-System](files/Automatic-Tank-Filling-System.png)
 
+### Simulation
+
+You can simulate the project before testing [here](https://www.tinkercad.com/things/1Ad4MBFK2Bl-automatic-tank-filling-system)
+
 ### Installation
 
 - Dump the `WaterPump.ino` into the Arduino using the Arduino IDE
