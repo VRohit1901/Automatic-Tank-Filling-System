@@ -1,6 +1,6 @@
 # Automatic Tank Filling System
 
-##Introduction
+## Introduction
 
 This system uses an ultrasonic sensor to measure the water level in the water tank and turn on/off the electric motor accordingly. A turbidity sensor is used to keep a check on containment levels of water.
 
