@@ -6,11 +6,14 @@ LiquidCrystal lcd(13,11,5,4,3,2);
 #define buzzer 10
 #define motor 6
 
+//Initialize variables
+
 float distance=0,time=0,temp;
 float turbid = 0.0;
 
 void setup()
 {
+  //Inntialize input output mode
   lcd.begin(16,2);
   pinMode(trigger,OUTPUT);
   pinMode(echo,INPUT);
