@@ -31,6 +31,8 @@ You can simulate the project before testing [here](https://www.tinkercad.com/thi
 
 ### Installation
 
+- Clone the repository using `https://github.com/VRohit1901/Automatic-Tank-Filling-System.git`
+
 - Dump the `WaterPump.ino` into the Arduino using the Arduino IDE
 
 - Make the connections as per the circuit diagram
